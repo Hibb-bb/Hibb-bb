@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Dennis Wu
+
+I'm currently studying at Northwestern University. 
+<br>My research interest lies in deep learning. For now, I'm working on data privacy and ML security research.
+My previous studies include data analysis on learning behaviors and distributed/efficient neural network optimization. 
+
+
+[google scholar](https://scholar.google.com/citations?user=rmm9zw0AAAAJ&hl=zh-TW&authuser=3) <br>
+[Personal Website](https://hibb-bb.github.io/) <br>
+[Email](hibb@u.northwestern.edu)
 
 <!--
 **Hibb-bb/Hibb-bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
