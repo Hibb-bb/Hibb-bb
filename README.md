@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi I'm Dennis Wu
+</p>
 
 I'm currently studying at Northwestern University. 
 <br>My research interest lies in deep learning. For now, I'm working on data privacy and ML security research.
