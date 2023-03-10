@@ -5,7 +5,7 @@ Hi I'm Dennis Wu
 ### Dennis Wu
 
 I'm currently studying at Northwestern University. 
-<br>My research interest lies in deep learning. For now, I'm working on data privacy and ML security research.
+<br>My research interest lies in deep learning. For now, I'm working on ML theory research.
 My previous studies include data analysis on learning behaviors and distributed/efficient neural network optimization. 
 
 
